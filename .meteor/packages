@@ -6,4 +6,7 @@
 standard-app-packages
 insecure
 bootstrap
-router
+iron-router
+spin
+accounts-ui-bootstrap-dropdown
+accounts-password
